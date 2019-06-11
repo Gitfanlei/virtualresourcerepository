@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<DeviceResource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:/C:/Users/81949/Desktop/Weekend/resourceDemo/Devices.xsd">
+  <Bascinfo>
+    <Name>ABB机器人</Name>
+    <Number>003</Number>
+    <Devicetype>设备</Devicetype>
+    <Resourcetype>ABB-1200</Resourcetype>
+    <Workshop>模拟车间</Workshop>
+    <Brand>ABB</Brand>
+    <Manufacturing>ABB公司</Manufacturing>
+    <Hourcost>10</Hourcost>
+    <Datetime>2016-9-11</Datetime>
+  </Bascinfo>
+  <Deviceparameter>
+    <Size>900cm*90cm*90cm</Size>
+    <Weight>210kg</Weight>
+    <Maxload>120kg</Maxload>
+    <Spindlespeed>无</Spindlespeed>
+    <Feedrate>无</Feedrate>
+    <Tooltype>无</Tooltype>
+    <Toolnumber>无</Toolnumber>
+    <Ratedpower>30kw</Ratedpower>
+  </Deviceparameter>
+  <Processperformance>
+    <Proprecision>无</Proprecision>
+    <Localprecision>5mm</Localprecision>
+    <Relocalprecision>200nm</Relocalprecision>
+    <Promaterial>无</Promaterial>
+    <Prohardness>无</Prohardness>
+    <Xstroke>60cm</Xstroke>
+    <Ystroke>40cm</Ystroke>
+    <Zstroke>30cm</Zstroke>
+  </Processperformance>
+  <Techperformance>
+    <Controlsystem>ABB系统</Controlsystem>
+    <Operationmodel>自动+手动</Operationmodel>
+    <Communicationprotocal>Ethernet\RS-232\Profinet</Communicationprotocal>
+  </Techperformance>
+</DeviceResource>

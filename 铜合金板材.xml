@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<MaterialsResource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:/C:/Users/81949/Desktop/Weekend/resourceDemo/Materials.xsd">  
+  <BascInfo> 
+    <MaterialName>铜合金板材</MaterialName>  
+    <Quantity>120块</Quantity>  
+    <MaterialCategory>合金</MaterialCategory>  
+    <StoreTime>2018.1.1</StoreTime> 
+  </BascInfo>  
+  <PhysicalPerformance> 
+    <Materialhardness>合金</Materialhardness>  
+    <ThermalConductivity>1.12Gpa</ThermalConductivity>  
+    <CTE>20.995W/m.k</CTE>  
+    <ModulusElasticity>8.6*10-6℃（0-100℃）</ModulusElasticity> 
+  </PhysicalPerformance>  
+  <Useful> 
+    <MaterialApplication>20GPa</MaterialApplication> 
+  </Useful> 
+</MaterialsResource>

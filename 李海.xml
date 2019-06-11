@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<HumanResource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:/C:/Users/81949/Desktop/Weekend/resourceDemo/Humanresource.xsd">  
+  <BascInfo> 
+    <PerName>李海</PerName>  
+    <Sex>男</Sex>  
+    <PerID>12</PerID>  
+    <JobNumber>123</JobNumber>  
+    <TelephoneNum>158</TelephoneNum>  
+    <EmailAddress>819</EmailAddress> 
+  </BascInfo>  
+  <Department> 
+    <DepartName>212</DepartName>  
+    <WorkPosition>12</WorkPosition>  
+    <DepartLocation>12</DepartLocation> 
+  </Department>  
+  <Professionalskill> 
+    <SkillName>12</SkillName>  
+    <JobTitle>12</JobTitle>  
+    <SkillLevel>12</SkillLevel>  
+    <WorkYears>12</WorkYears> 
+  </Professionalskill> 
+</HumanResource>

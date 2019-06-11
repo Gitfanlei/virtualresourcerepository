@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DeviceResource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:/C:/Users/81949/Desktop/Weekend/resourceDemo/Devices.xsd">  
+  <Bascinfo> 
+    <Name>中捷VMC 9656e数控机床</Name>  
+    <Number></Number>  
+    <Devicetype>设备</Devicetype>  
+    <Resourcetype></Resourcetype>  
+    <Workshop></Workshop>  
+    <Brand></Brand>  
+    <Manufacturing></Manufacturing>  
+    <Hourcost></Hourcost>  
+    <Datetime></Datetime> 
+  </Bascinfo>  
+  <Deviceparameter> 
+    <Size></Size>  
+    <Weight></Weight>  
+    <Maxload></Maxload>  
+    <Spindlespeed></Spindlespeed>  
+    <Feedrate></Feedrate>  
+    <Tooltype></Tooltype>  
+    <Toolnumber></Toolnumber>  
+    <Ratedpower></Ratedpower> 
+  </Deviceparameter>  
+  <Processperformance> 
+    <Proprecision></Proprecision>  
+    <Localprecision></Localprecision>  
+    <Relocalprecision></Relocalprecision>  
+    <Promaterial></Promaterial>  
+    <Prohardness></Prohardness>  
+    <Xstroke></Xstroke>  
+    <Ystroke></Ystroke>  
+    <Zstroke></Zstroke> 
+  </Processperformance>  
+  <Techperformance> 
+    <Controlsystem></Controlsystem>  
+    <Operationmodel></Operationmodel>  
+    <Communicationprotocal></Communicationprotocal> 
+  </Techperformance> 
+</DeviceResource>

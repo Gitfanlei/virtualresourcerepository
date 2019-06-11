@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<HumanResource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:/C:/Users/81949/Desktop/Weekend/resourceDemo/Humanresource.xsd">
+  <BascInfo>
+    <PerName>SR</PerName>
+    <Sex>男</Sex>
+    <PerID>2107</PerID>
+    <JobNumber>0001</JobNumber>
+    <TelephoneNum>183</TelephoneNum>
+    <EmailAddress>8194@qq.com</EmailAddress>
+  </BascInfo>
+  <Department>
+    <DepartName>模拟车间</DepartName>
+    <WorkPosition>主管</WorkPosition>
+    <DepartLocation>模拟车间</DepartLocation>
+  </Department>
+  <Professionalskill>
+    <SkillName>机床维修</SkillName>
+    <JobTitle>特级技工</JobTitle>
+    <SkillLevel>4级</SkillLevel>
+    <WorkYears>4年</WorkYears>
+  </Professionalskill>
+</HumanResource>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<DeviceResource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:/C:/Users/81949/Desktop/Weekend/resourceDemo/Devices.xsd">
+  <Bascinfo>
+    <Name>华中数控</Name>
+    <Number>001</Number>
+    <Devicetype>设备</Devicetype>
+    <Resourcetype>HNC-848c</Resourcetype>
+    <Workshop>模拟车间</Workshop>
+    <Brand>华中</Brand>
+    <Manufacturing>华中数控公司</Manufacturing>
+    <Hourcost>10</Hourcost>
+    <Datetime>2011-9-11</Datetime>
+  </Bascinfo>
+  <Deviceparameter>
+    <Size>120cm*100cm*90cm</Size>
+    <Weight>210kg</Weight>
+    <Maxload>120kg</Maxload>
+    <Spindlespeed>1000r/s</Spindlespeed>
+    <Feedrate>5mm/min</Feedrate>
+    <Tooltype>曲式</Tooltype>
+    <Toolnumber>25</Toolnumber>
+    <Ratedpower>30kw</Ratedpower>
+  </Deviceparameter>
+  <Processperformance>
+    <Proprecision>0.1mm</Proprecision>
+    <Localprecision>5mm</Localprecision>
+    <Relocalprecision>200nm</Relocalprecision>
+    <Promaterial>铝合金\铝块\钛合金</Promaterial>
+    <Prohardness>10hb</Prohardness>
+    <Xstroke>60cm</Xstroke>
+    <Ystroke>40cm</Ystroke>
+    <Zstroke>30cm</Zstroke>
+  </Processperformance>
+  <Techperformance>
+    <Controlsystem>华中数控系统</Controlsystem>
+    <Operationmodel>自动+手动</Operationmodel>
+    <Communicationprotocal>Ethernet\RS-232\Profinet</Communicationprotocal>
+  </Techperformance>
+</DeviceResource>

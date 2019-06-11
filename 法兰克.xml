@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<DeviceResource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:/C:/Users/81949/Desktop/Weekend/resourceDemo/Devices.xsd">
+  <Bascinfo>
+    <Name>法兰克</Name>
+    <Number>002</Number>
+    <Devicetype>设备</Devicetype>
+    <Resourcetype>FNC-11</Resourcetype>
+    <Workshop>模拟车间</Workshop>
+    <Brand>FUNUC</Brand>
+    <Manufacturing>法兰克公司</Manufacturing>
+    <Hourcost>10</Hourcost>
+    <Datetime>2015-9-11</Datetime>
+  </Bascinfo>
+  <Deviceparameter>
+    <Size>100cm*100cm*90cm</Size>
+    <Weight>210kg</Weight>
+    <Maxload>120kg</Maxload>
+    <Spindlespeed>2000r/s</Spindlespeed>
+    <Feedrate>5mm/min</Feedrate>
+    <Tooltype>曲式</Tooltype>
+    <Toolnumber>25</Toolnumber>
+    <Ratedpower>40kw</Ratedpower>
+  </Deviceparameter>
+  <Processperformance>
+    <Proprecision>0.1mm</Proprecision>
+    <Localprecision>5mm</Localprecision>
+    <Relocalprecision>200nm</Relocalprecision>
+    <Promaterial>铝合金\铝块\钛合金</Promaterial>
+    <Prohardness>10hb</Prohardness>
+    <Xstroke>60cm</Xstroke>
+    <Ystroke>40cm</Ystroke>
+    <Zstroke>30cm</Zstroke>
+  </Processperformance>
+  <Techperformance>
+    <Controlsystem>法兰克系统</Controlsystem>
+    <Operationmodel>自动</Operationmodel>
+    <Communicationprotocal>Ethernet\RS-232\Profinet</Communicationprotocal>
+  </Techperformance>
+</DeviceResource>
